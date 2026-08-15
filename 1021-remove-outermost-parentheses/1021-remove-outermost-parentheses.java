@@ -7,16 +7,12 @@ class Solution {
                 c++;
                 if(c >= 2) {
                     sb.append(s.charAt(i));
-                }else{
-                    continue;
                 }
             }
             if(s.charAt(i) == ')') {
                 c--;
                 if(c >= 1) {
                     sb.append(s.charAt(i));
-                }else{
-                    continue;
                 }
             }
         }
