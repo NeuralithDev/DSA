@@ -34,4 +34,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NeuralithDev/DSA/tree/main/0204-count-primes/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
