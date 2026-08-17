@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/NeuralithDev/DSA/tree/main/0204-count-primes/) | Medium |
+| [0283-move-zeroes](https://github.com/NeuralithDev/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/NeuralithDev/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -46,4 +47,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/NeuralithDev/DSA/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
