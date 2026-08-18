@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/NeuralithDev/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/NeuralithDev/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/NeuralithDev/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralithDev/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/NeuralithDev/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralithDev/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 <!---LeetCode Topics End-->
