@@ -40,6 +40,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeuralithDev/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -68,5 +69,14 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeuralithDev/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralithDev/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeuralithDev/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeuralithDev/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
