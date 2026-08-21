@@ -46,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/NeuralithDev/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -85,11 +86,13 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +102,5 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
