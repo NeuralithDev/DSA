@@ -17,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/NeuralithDev/DSA/tree/main/0001-two-sum/) | Easy |
 | [0204-count-primes](https://github.com/NeuralithDev/DSA/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/NeuralithDev/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/NeuralithDev/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -72,6 +73,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/NeuralithDev/DSA/tree/main/0001-two-sum/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/NeuralithDev/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralithDev/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Queue
