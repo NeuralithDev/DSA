@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NeuralithDev/DSA/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/NeuralithDev/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0204-count-primes](https://github.com/NeuralithDev/DSA/tree/main/0204-count-primes/) | Medium |
@@ -131,6 +132,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/NeuralithDev/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
