@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/NeuralithDev/DSA/tree/main/0001-two-sum/) | Easy |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0204-count-primes](https://github.com/NeuralithDev/DSA/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/NeuralithDev/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/NeuralithDev/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -131,8 +132,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
