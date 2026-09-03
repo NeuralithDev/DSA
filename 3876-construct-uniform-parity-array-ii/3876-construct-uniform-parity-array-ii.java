@@ -41,16 +41,22 @@ class Solution {
         //     }
         // }
         // return true;
-        int min = nums1[0];
-        boolean hasOdd = false;
-        for(int num : nums1) {
-            if(num < min) {
-                min = num;
-            }
-            if(num % 2 != 0){
-                hasOdd = true;
+        int min = Integer.MAX_VALUE;
+        for(int i = 0 ; i < nums1.length; i++) {
+            if(nums1[i] < min) {
+                min = nums1[i];
             }
         }
-        return min % 2 != 0 || !hasOdd;
+
+        if(min%2 != 0) {
+            return true;
+        }
+
+        for(int num: nums1){
+            if(num%2 != 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
