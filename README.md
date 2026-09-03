@@ -10,6 +10,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/NeuralithDev/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NeuralithDev/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/NeuralithDev/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/NeuralithDev/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [0485-max-consecutive-ones](https://github.com/NeuralithDev/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/NeuralithDev/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/NeuralithDev/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/NeuralithDev/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
