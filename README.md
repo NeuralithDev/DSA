@@ -77,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/NeuralithDev/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/NeuralithDev/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +126,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
