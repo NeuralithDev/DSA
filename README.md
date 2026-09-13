@@ -100,6 +100,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/NeuralithDev/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -109,6 +110,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
@@ -125,6 +127,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/NeuralithDev/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NeuralithDev/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/NeuralithDev/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -147,4 +150,12 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
