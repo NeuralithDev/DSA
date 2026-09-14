@@ -1,22 +1,20 @@
 class Solution {
-    public List<List<Integer>> fin = new ArrayList<>();
-    public void findSubsets(int[] nums, List<Integer> ans, int idx){
+    List<List<Integer>> res = new ArrayList<>();
+    public void findSubsets(int[] nums, ArrayList<Integer> ans, int i){
         //base case
-        if(idx == nums.length){
-            fin.add(new ArrayList<>(ans));
+        if(i == nums.length){
+            res.add(new ArrayList<>(ans));
             return;
         }
-        //recursion
-        //Yes
-        ans.add(nums[idx]);
-        findSubsets(nums,ans,idx+1);
-        //BackTrack
+        //recursive call
+        ans.add(nums[i]);
+        findSubsets(nums,ans,i+1);
         ans.remove(ans.size()-1);
-        //No
-        findSubsets(nums, ans, idx+1);
+        findSubsets(nums,ans,i+1);
     }
     public List<List<Integer>> subsets(int[] nums) {
-        findSubsets(nums,new ArrayList<>(), 0);
-        return fin;
+        ArrayList<Integer> ans = new ArrayList<>();
+        findSubsets(nums,ans,0);
+        return res;
     }
 }
