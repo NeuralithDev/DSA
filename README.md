@@ -143,6 +143,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/NeuralithDev/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0052-n-queens-ii](https://github.com/NeuralithDev/DSA/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/NeuralithDev/DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/NeuralithDev/DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
@@ -158,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NeuralithDev/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0052-n-queens-ii](https://github.com/NeuralithDev/DSA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
